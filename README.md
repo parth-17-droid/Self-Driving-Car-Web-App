@@ -1,6 +1,3 @@
-Here is a **clean, professional, GitHub-ready `README.md`** for your *Self-Driving Car Control System* project.
-You can copy–paste this directly into a `README.md` file on GitHub.
-
 ---
 
 # 🚗 Autonomous Vehicle Control System
@@ -239,12 +236,6 @@ python simulator.py
 
 ---
 
-# 📦 Files Provided
-
-* **Project ZIP:** `/mnt/data/c74bcbd9-bd3d-40a9-b97f-1f6c32793b8a.zip`
-* **Project Presentation:** `/mnt/data/c5311ef7-4167-467b-89ad-ae94f91ec5be.pptx`
-
-Both can be added to the GitHub repo under `/docs` or release assets.
 
 ---
 
@@ -259,27 +250,4 @@ Follow semantic versioning for releases.
 
 ---
 
-# 📄 License
 
-This project can use **MIT License** or **Apache-2.0**.
-Add a license file as `LICENSE` in the root directory.
-
----
-
-# 📬 Contact
-
-For improvements or enhancements, feel free to DM or raise an issue.
-
----
-
-## ✅ Your README is ready!
-
-If you want, I can also generate:
-
-* `CONTRIBUTING.md`
-* `INSTALLATION.md`
-* `API_DOCS.md`
-* A **badge section** (build, version, license, etc.)
-* A GitHub-optimized **project banner image**
-
-Just tell me!
