@@ -236,6 +236,12 @@ python simulator.py
 
 ---
 
+# 📦 Files Provided
+
+* **Project ZIP:** `/mnt/data/c74bcbd9-bd3d-40a9-b97f-1f6c32793b8a.zip`
+* **Project Presentation:** `/mnt/data/c5311ef7-4167-467b-89ad-ae94f91ec5be.pptx`
+
+Both can be added to the GitHub repo under `/docs` or release assets.
 
 ---
 
@@ -246,8 +252,11 @@ python simulator.py
 3. Commit changes with clear messages
 4. Open a pull request
 
-Follow semantic versioning for releases.
+
+---
 
 ---
 
 
+
+---
