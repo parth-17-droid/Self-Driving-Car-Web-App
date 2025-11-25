@@ -1,5 +1,3 @@
----
-
 # 🚗 Autonomous Vehicle Control System
 
 *A modular control system for navigation, obstacle detection, diagnostics, and fleet management.*
